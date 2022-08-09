@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(15, 5, 5);
+    color: #fff;
+}
+
+.table-container {
+    color: #fff;
+}
+table, thead, tr, th, td {
+    color: #fff;
+}
+
+.card {
+    background-color: rgb(10, 7, 12);
+    color: rgb(173, 169, 169);
+}
+
+/* .card:hover {
+    border: 5px solid rgb(29, 29, 131);
+    width: 33vw;
+    z-index: 5;
+}
+ */
